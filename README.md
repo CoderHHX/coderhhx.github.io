@@ -1,2 +1,1 @@
-# coderhhx.github.io
-https://coderhhx.github.io/
+Huaxi Huang's academic homepage.
