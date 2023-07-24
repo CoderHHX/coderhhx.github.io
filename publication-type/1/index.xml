@@ -1,54 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | </title>
-    <link>/publication-type/1/</link>
-      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <title>1 | Academic</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>/publication-type/1/</link>
+      <link>https://example.com/publication-type/1/</link>
     </image>
     
     <item>
+      <title>PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels</title>
+      <link>https://example.com/publication/iccv23/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iccv23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masked Cross-image Encoding For Few-shot Segmentation</title>
+      <link>https://example.com/publication/icme23/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/icme23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PTN: A Poisson Transfer Network for Semi-supervised Few-shot Learning</title>
-      <link>/publication/aaai/</link>
+      <link>https://example.com/publication/aaai/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/aaai/</guid>
+      <guid>https://example.com/publication/aaai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compare More Nuanced: Pairwise Alignment Bilinear Network for Few-Shot Fine-Grained Learning</title>
-      <link>/publication/icme/</link>
+      <link>https://example.com/publication/icme19/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/icme/</guid>
+      <guid>https://example.com/publication/icme19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Railway Infrastructure Defects Recognition using Fine-grained Deep Convolutional Neural Networks</title>
-      <link>/publication/dicta/</link>
+      <link>https://example.com/publication/dicta/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/dicta/</guid>
+      <guid>https://example.com/publication/dicta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Surface defects detection for mobilephone panel workpieces based on machine vision and machine learning</title>
-      <link>/publication/icia/</link>
+      <link>https://example.com/publication/icia/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/icia/</guid>
+      <guid>https://example.com/publication/icia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-view Representative and Informative Induced Active Learning</title>
-      <link>/publication/pricai/</link>
+      <link>https://example.com/publication/pricai/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/pricai/</guid>
+      <guid>https://example.com/publication/pricai/</guid>
       <description></description>
     </item>
     
